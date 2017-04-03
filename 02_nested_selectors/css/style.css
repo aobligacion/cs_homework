@@ -1,0 +1,24 @@
+body {
+
+}
+
+em {
+/* make the font appear black */
+}
+
+h1 {
+/* make the font appear black */
+
+}
+
+p {
+  /* give this a top and bottom margin of 20px and left and right margin of 0px*/
+}
+
+blockquote {
+  border-left: 5px solid #EEE;
+  padding: 0 0 0 14px;
+  margin: 0;
+}
+
+/* nested selector rules go here */
